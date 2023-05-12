@@ -1,0 +1,46 @@
+/*Type your ID Number here*/
+/*Start typing your style rules below this comment*/
+html{
+	font-family: 'Inter', sans-serif;
+	font-size:12px;
+	box-sizing: border-box;
+	scroll-behaviour: smooth;
+}
+
+*{
+	margin:0;
+}
+
+.header{
+  background-color:#60bf80;
+  padding: 16px 150px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  width: 50px;
+  height: 50px;
+}
+
+.nav__list {
+  list-style: none;
+  display: flex;
+  gap: 26px;
+}
+
+.nav__link {
+  color: #d92c49;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+}
+
+
+
+
+
+
